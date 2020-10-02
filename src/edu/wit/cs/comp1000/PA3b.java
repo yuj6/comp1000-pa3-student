@@ -1,7 +1,7 @@
 package edu.wit.cs.comp1000;
 
 /*********************************************************************
-*	Lab 4 - PA3a
+*	Lab 4 - PA3b
 *	YOUR NAME HERE
 *
 *	COMP1000-XX  (XX is your session number)
